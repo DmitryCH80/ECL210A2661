@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_1.png</file>
+        <file>reload_1.png</file>
+        <file>broom.png</file>
+        <file>DHWSystem.png</file>
+        <file>HeatSystem.png</file>
+        <file>ParamInfo.png</file>
+        <file>Read_1.png</file>
+        <file>ReadAllConfig.png</file>
+        <file>Save_1.png</file>
+        <file>ServerInControl.png</file>
+        <file>ServerInWork.png</file>
+        <file>DHW.png</file>
+        <file>Heat.png</file>
+        <file>ConnectionSetup.png</file>
+        <file>Attention_1_512.png</file>
+        <file>Calculation_1_512.png</file>
+        <file>Detals_1_512.png</file>
+        <file>Engineering_1_512.png</file>
+        <file>Information_1_512.png</file>
+        <file>Resullt_1_512.png</file>
+    </qresource>
+</RCC>

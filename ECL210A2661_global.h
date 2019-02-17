@@ -1,0 +1,12 @@
+#ifndef ECL210A2661_GLOBAL_H
+#define ECL210A2661_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(ECL210A2661_LIBRARY)
+#  define ECL210A2661_EXPORT Q_DECL_EXPORT
+#else
+#  define ECL210A2661_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // ECL210A2661_GLOBAL_H
